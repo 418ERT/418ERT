@@ -1,5 +1,4 @@
-# Hello! 👋 I'm [Your Name]
-
+# Hello! 👋 I'm Albert
 Welcome to my GitHub! I'm a passionate developer with experience in web development, dedicated to building modern and functional applications. Here you'll find my projects, ideas, and experiments.
 
 ---
