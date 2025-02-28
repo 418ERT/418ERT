@@ -29,9 +29,7 @@ Welcome to my GitHub! I'm a passionate developer with experience in web developm
 ---
 
 ## ✉️ Contact Me
-- Email: [albsmoke@gmail.com](mailto:albsmoke@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/418ert/)
-- Website: [nextcoders.pro](https://nextcoders.pro)
 
 ---
 
