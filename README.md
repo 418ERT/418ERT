@@ -1,35 +1,47 @@
-# Hello! 👋 I'm Albert
-Welcome to my GitHub! I'm a passionate developer with experience in web development, dedicated to building modern and functional applications. Here you'll find my projects, ideas, and experiments.
+# 👨‍💻 Hi, I'm Albert
+
+Senior Web Developer & Instructor with 10+ years of experience building scalable web apps, teaching code, and crafting modern digital products.
 
 ---
 
-## 🛠️ Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+### 💻 Tech Stack & Ecosystem
+
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Services**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 My Projects
-- **[Next Coders](https://nextc0ders.web.app/)**: A platform for teaching kids web development. 🌱
-- **[418ERT](https://418ert.com)**: A showcase of my completed and active projects.
+### 🚀 Projects & Highlights
+
+* **[418ERT](https://418ert.com)** — Personal portfolio & showcase of active client & personal projects.
+* **[Next Coders](https://nextc0ders.web.app/)** — Educational platform tailored for interactive web development learning for kids. 🌱
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=418ERT&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=418ERT&layout=compact&theme=radical)
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=418ERT&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=418ERT&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
-## ✉️ Contact Me
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/418ert/)
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/418ert/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://418ert.com)
 
 ---
 
-### 🌟 "Coding is not just about writing code. It's about creating the future."
+> *"Coding is not just about writing code. It's about creating clean, functional tools that solve real problems."*
