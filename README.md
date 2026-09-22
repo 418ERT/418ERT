@@ -33,6 +33,14 @@ Senior Web Developer & Instructor with 10+ years of experience building scalable
 
 ---
 
+### 📈 Contribution Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=418ERT&theme=dark&hide_border=true" alt="GitHub Streak" height="160" />
+</p>
+
+---
+
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/418ert/)
