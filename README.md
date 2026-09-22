@@ -16,9 +16,8 @@ Welcome to my GitHub! I'm a passionate developer with experience in web developm
 ---
 
 ## 🚀 My Projects
-- **[Next Coders](https://nextcoders.pro)**: A platform for teaching kids web development. 🌱
-- **[My Portfolio](#)**: A showcase of my completed and active projects.
-- **[Starry Sky Effect](#)**: A project featuring a starry sky animation with a shooting star. 🌟
+- **[Next Coders](https://nextc0ders.web.app/)**: A platform for teaching kids web development. 🌱
+- **[418ERT](https://418ert.com)**: A showcase of my completed and active projects.
 
 ---
 
