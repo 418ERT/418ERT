@@ -36,7 +36,7 @@ Senior Web Developer & Instructor with 10+ years of experience building scalable
 ### 📈 Contribution Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=418ERT&theme=dark&hide_border=true" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=418ERT&theme=dark&hide_border=true&user_time_zone=Asia/Yerevan" alt="GitHub Streak" height="160" />
 </p>
 
 ---
